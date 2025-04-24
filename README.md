@@ -11,3 +11,5 @@
 ## Cal: https://cal.com/mardy
 
 ## Gitbook: https://gosea-llc.gitbook.io/gosea-llc-docs
+
+## Dev Community: https://dev.to/madry520

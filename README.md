@@ -9,3 +9,5 @@
 ## Daily: https://app.daily.dev/dima68
 
 ## Cal: https://cal.com/mardy
+
+## Gitbook: https://gosea-llc.gitbook.io/gosea-llc-docs
